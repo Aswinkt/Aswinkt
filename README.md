@@ -7,38 +7,36 @@ I enjoy crafting scalable systems, managing deployments, and exploring the evolv
 
 ### 🛠️ What I Work With
 
-- **Backend:** Python, Django, Django REST Framework
-- **Frontend:** Angular, HTML, CSS, JavaScript
-- **Database:** PostgreSQL, MySQL
-- **DevOps & Tools:** Jenkins, Docker, Git, Nginx, Supervisor
-- **Cloud & Server Management:** Linux servers, deployment automation, service monitoring
-- 
+- **Backend:** Python, Django, Django REST Framework  
+- **Frontend:** Angular, HTML, CSS, JavaScript  
+- **Database:** PostgreSQL, MySQL  
+- **DevOps & Tools:** Jenkins, Docker, Git, Nginx, Supervisor  
+- **Cloud & Server Management:** Linux servers, deployment automation, service monitoring  
+
 ---
 
 ### 🤖 Currently Exploring
 
-- Generative AI  
-- Building intelligent tools with LLMs  
-- Scalable microservices and system design
+- Generative AI & LLM-based tools  
+- Intelligent automation with AI  
+- Scalable microservices and system design  
 
 ---
 
-### 📊 Activity Snapshot
+### 📊 GitHub Highlights
 
-![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswinkt&show_icons=true&theme=radical)
-
----
-
-### 🧩 My Tech Stack Mix
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinkt&layout=compact&theme=radical)
-
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Aswinkt&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinkt&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/aswinkt](https://www.linkedin.com/in/aswin-kt/)
+- [LinkedIn](https://www.linkedin.com/in/aswin-kt/)
+
 ---
 
-Thanks for dropping by! Always building, always learning. ✨
+Thanks for dropping by!  
+**Always building, always learning.** ✨
