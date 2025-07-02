@@ -23,11 +23,16 @@ I enjoy crafting scalable systems, managing deployments, and exploring the evolv
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Activity Snapshot
 
 ![Aswin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswinkt&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinkt&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aswinkt&theme=dark)](https://git.io/streak-stats)
+
+---
+
+### 🧩 My Tech Stack Mix
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aswinkt&layout=compact&theme=radical)
+
 
 ---
 
