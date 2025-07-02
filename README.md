@@ -1,35 +1,31 @@
 # 👋 Hey, I'm Aswin
 
-A software engineer who codes with purpose and builds with passion.  
-Always learning, always creating. 🚀
+A passionate software engineer who builds with purpose and codes with clarity.  
+I enjoy crafting scalable systems, managing deployments, and exploring the evolving world of AI. 🚀
 
 ---
 
-### 🛠️ Tech I Work With
-- **Languages:** Python, JavaScript, TypeScript, SQL  
-- **Frameworks:** Django, Django REST Framework, Angular  
-- **Tools:** Git, Docker, Postman, MySQL, Redis  
+### 🛠️ What I Work With
+
+- **Backend:** Python, Django, Django REST Framework
+- **Frontend:** Angular, HTML, CSS, JavaScript
+- **Database:** PostgreSQL, MySQL
+- **DevOps & Tools:** Jenkins, Docker, Git, Nginx, Supervisor
+- **Cloud & Server Management:** Linux servers, deployment automation, service monitoring
 
 ---
 
-### 📌 What I'm Up To
-- Building modular, scalable web apps
-- Automating things that waste time
-- Exploring system design & architecture
+### 🤖 Currently Exploring
 
----
-
-### 🌱 Always Growing
-> "The best code is written not when there's nothing more to add,  
-> but when there's nothing left to take away."
+- Generative AI  
+- Building intelligent tools with LLMs  
+- Scalable microservices and system design
 
 ---
 
 ### 📫 Let's Connect
-- GitHub: [Aswinkt](https://github.com/Aswinkt)
-- LinkedIn: [linkedin.com/in/aswinkt](https://www.linkedin.com/in/aswinkt) <!-- Replace with your actual LinkedIn -->
 
+- LinkedIn: [linkedin.com/in/aswinkt](https://www.linkedin.com/in/aswinkt)
 ---
 
-Thanks for stopping by! 😊
-
+Thanks for dropping by! Always building, always learning. ✨
