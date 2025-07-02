@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey, I'm Aswin
 
-<!--
-**Aswinkt/Aswinkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software engineer who codes with purpose and builds with passion.  
+Always learning, always creating. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech I Work With
+- **Languages:** Python, JavaScript, TypeScript, SQL  
+- **Frameworks:** Django, Django REST Framework, Angular  
+- **Tools:** Git, Docker, Postman, MySQL, Redis  
+
+---
+
+### 📌 What I'm Up To
+- Building modular, scalable web apps
+- Automating things that waste time
+- Exploring system design & architecture
+
+---
+
+### 🌱 Always Growing
+> "The best code is written not when there's nothing more to add,  
+> but when there's nothing left to take away."
+
+---
+
+### 📫 Let's Connect
+- GitHub: [Aswinkt](https://github.com/Aswinkt)
+- LinkedIn: [linkedin.com/in/aswinkt](https://www.linkedin.com/in/aswinkt) <!-- Replace with your actual LinkedIn -->
+
+---
+
+Thanks for stopping by! 😊
+
